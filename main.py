@@ -14,3 +14,12 @@ print(f"Soma: {a} + {b} = {soma}")
 print(f"Subtração: {a} - {b} = {subtracao}")
 print(f"Multiplicação: {a} * {b} = {multiplicacao}")
 print(f"Divisão: {a} / {b} = {divisao}")
+
+
+tarefas = []
+tarefas.append("Estudar Python")
+tarefas.append("Lavar louça")
+tarefas.append("Ir ao mercado")
+print("Tarefas atuais:", tarefas)
+tarefas.remove("Lavar louça")
+print("Tarefas após remoção:", tarefas)
