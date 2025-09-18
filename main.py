@@ -23,3 +23,4 @@ tarefas.append("Ir ao mercado")
 print("Tarefas atuais:", tarefas)
 tarefas.remove("Lavar louça")
 print("Tarefas após remoção:", tarefas)
+
